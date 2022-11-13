@@ -53,10 +53,6 @@ export const stackList = [
     name: "Bootstrap",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/sass.svg",
-    name: "Scss",
-  },
-  {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/git.svg",
     name: "Git",
   },
