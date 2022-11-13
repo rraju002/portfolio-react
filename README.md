@@ -1,5 +1,3 @@
-
-
 # React Portfolio!
 Live Preview - [Click Here](https://rraju002.github.io/portfolio-react/)
 
