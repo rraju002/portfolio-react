@@ -9,9 +9,11 @@ Live Preview - [Click Here](https://rraju002.github.io/portfolio-react/)
 </div>
 <br/>
 <br/>
+
 ## Description
 This project was created to display an online portfolio using React!
 ![badge](https://img.shields.io/badge/license-undefined-brightorange)
+
 ## Table of Contents
   * [Installation](#installation)
   * [Contribution](#contribution)
