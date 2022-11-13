@@ -1,5 +1,14 @@
-# React Portfolio!
 
+
+# React Portfolio!
+Live Preview - [Click Here](https://rraju002.github.io/portfolio-react/)
+
+<br/>
+<div align="center">
+  <img alt="Demo" src="public/mockup.png" />
+</div>
+<br/>
+<br/>
 ## Description
 This project was created to display an online portfolio using React!
 ![badge](https://img.shields.io/badge/license-undefined-brightorange)
