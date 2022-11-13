@@ -1,38 +1,31 @@
 // --------------------------------------- Project List
 export const ProjectList = [
+ 
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_1.png",
-    title: "Spense",
-    description: "Codewell challenge, Spense is a landing page for writers.",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
-  },
-  {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_2.png",
-    title: "Fiber",
+    img: "file:///Users/rojo01/Desktop/Screen%20Shot%202022-11-13%20at%201.40.26%20PM.png",
+    title: "Thai Hoa Mui Ne Resort",
     description:
-      "An online portfolio generator. Great to practice flex/grid layouts, absolute positioning and sliders.",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+      "A Full-Stack website for Thai Hoa Mui Ne Resort!",
+    tech_stack: "Html, Css, Javascript, CSS",
+    github_url: "https://github.com/NguyenDoan85/Resort---Project-2",
+    demo_url: "https://thaihoamuineresort.herokuapp.com/",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/portfolio.png",
-    title: "Portfolio",
-    description: "Ofcourse i made my own personal portfolio website.",
-    tech_stack: "Reactjs, Css",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link/",
+    img: "https://github.com/NguyenDoan85/Ultimate-Cocktail-Page/blob/main/images/frontpage.jpg",
+    title: "Ultimate Cocktail Page",
+    description: "A page for cocktail lover to search for their favorite cocktail's recipe!",
+    tech_stack: "HTML, JS, Css",
+    github_url: "https://github.com/NguyenDoan85/Ultimate-Cocktail-Page",
+    demo_url: "https://nguyendoan85.github.io/Ultimate-Cocktail-Page/",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_3.png",
-    title: "Ecommerce website",
+    img: "https://user-images.githubusercontent.com/105147266/185877210-04131f2f-6d69-47f2-8bd6-3ddc6ffb60ae.png",
+    title: "Work-Day Scheduler",
     description:
-      "Created simple ecommerce website using reactjs and react-use-cart plugin.",
-    tech_stack: "Reactjs, Css",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+      "A scheduling application to allow for users to enjoy the benefits of utilizing a planner in both their work and daily lives!",
+    tech_stack: "JS",
+    github_url: "https://github.com/rraju002/Work-Day-Scheduler.git",
+    demo_url: "https://rraju002.github.io/Work-Day-Scheduler/",
   },
 ];
 
