@@ -2,7 +2,7 @@
 export const ProjectList = [
  
   {
-    img: "file:///Users/rojo01/Desktop/Screen%20Shot%202022-11-13%20at%201.40.26%20PM.png",
+    img: "https://user-images.githubusercontent.com/105147266/201547413-c7809f1e-2609-4097-8d00-938e7de89543.png",
     title: "Thai Hoa Mui Ne Resort",
     description:
       "A Full-Stack website for Thai Hoa Mui Ne Resort!",
@@ -11,7 +11,7 @@ export const ProjectList = [
     demo_url: "https://thaihoamuineresort.herokuapp.com/",
   },
   {
-    img: "https://github.com/NguyenDoan85/Ultimate-Cocktail-Page/blob/main/images/frontpage.jpg",
+    img: "https://user-images.githubusercontent.com/105147266/201547536-3cabc04b-dabe-4a86-b447-b3bbce69d995.png",
     title: "Ultimate Cocktail Page",
     description: "A page for cocktail lover to search for their favorite cocktail's recipe!",
     tech_stack: "HTML, JS, Css",

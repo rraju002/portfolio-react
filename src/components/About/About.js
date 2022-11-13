@@ -15,7 +15,7 @@ function About() {
         <div className="SectionTitle">About Me</div>
         <div className="BigCard">
           <Image
-            src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/man-svgrepo-com.svg"
+            src="https://user-images.githubusercontent.com/105147266/201548285-02a21eb2-4989-48d3-9f2f-4f41c66c3f36.JPG"
             alt="man-svgrepo"
           />
           <div className="AboutBio">
